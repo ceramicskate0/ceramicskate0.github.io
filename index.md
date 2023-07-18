@@ -3,6 +3,10 @@ layout: default
 ---
 # CeramicSkate0's Blog
 
+### Twitter Link: https://twitter.com/ceramicskate0
+### Discord Link: https://discord.gg/sGsjjAMZ
+### Github Link: https://github.com/ceramicskate0
+
 ## Some things to note
   - Everything here has nothing to do with my employeer.
   - I am not a lawyer.
