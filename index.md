@@ -3,7 +3,7 @@ layout: default
 ---
 # CeramicSkate0's Blog
 
-## Some things to note and some rules
+## Some things to note
   - Everything here has nothing to do with my employeer.
   - I am not a lawyer.
   - Dont use anything here for evil or illegal purposes. 
