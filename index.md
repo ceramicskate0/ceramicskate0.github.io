@@ -4,7 +4,7 @@ layout: default
 
 # Links to Blogs
 
-[Link to another page](./CVE-2022-24696.html).
+[Deeper Dive into CVE-2022-24696](./CVE-2022-24696.html).
 
 
 ```
