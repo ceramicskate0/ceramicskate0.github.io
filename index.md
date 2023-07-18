@@ -3,9 +3,9 @@ layout: default
 ---
 # CeramicSkate0's Blog
 
-### Twitter Link: https://twitter.com/ceramicskate0
-### Discord Link: https://discord.gg/sGsjjAMZ
-### Github Link: https://github.com/ceramicskate0
+### Twitter Link: [twitter.com/ceramicskate0](https://twitter.com/ceramicskate0)
+### Discord Link: [discord.gg/sGsjjAMZ](https://discord.gg/sGsjjAMZ)
+### Github Link: [github.com/ceramicskate0](https://github.com/ceramicskate0)
 
 ## Some things to note
   - Everything here has nothing to do with my employeer.
