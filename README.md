@@ -1,2 +1,4 @@
 # ceramicskate0.github.io
-blog
+
+
+This is the code for the blog
