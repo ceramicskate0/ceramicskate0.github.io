@@ -17,5 +17,6 @@ layout: default
 
 # Links to Blog Posts
 
-[Deeper Dive into CVE-2022-24696](./CVE-2022-24696.html).
+- [Deeper Dive into CVE-2022-24696](./CVE-2022-24696.html).
 
+- [CCSharp-Payloading1](./CCSharp-Payloading1.html).
