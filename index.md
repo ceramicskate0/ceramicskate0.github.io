@@ -19,4 +19,4 @@ layout: default
 
 - [Deeper Dive into CVE-2022-24696](./CVE-2022-24696.html)
 
-- [CCSharp-Payloading1](./CCSharp-Payloading1.html)
+- [CCSharp-Payloading1](./CSharp-Payloading1.html)
