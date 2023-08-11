@@ -32,7 +32,19 @@ It seems like we have all these tools to find things at scale on an operation bu
 
 ![nothing](https://github.com/ceramicskate0/ceramicskate0.github.io/assets/6934294/2f035b82-5551-4d79-9c64-851de5ec4359)
 
-## {Para...}
+So when I decided I had to make a tool to fill this need. I started out by simply looking for things I found.
+
+**FILES ON DISK!**
+
+It also had to be run by C2 frameworks either `inline` or `fork & run` methods. This mean **NO** `Enviorment.Exit()` super annoying when i see a c# impant that does this.
+So I started out by making some standard file search methods withing the tool. This became a interetsing issue taking me back to my Computer Science days...
+
+
+## The Coding
+
+![coding](https://github.com/ceramicskate0/ceramicskate0.github.io/assets/6934294/f5e50dfe-e91b-4527-a2b8-356657ef380e)
+
+
 
 ## {Conclusion}
 
