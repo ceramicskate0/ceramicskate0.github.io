@@ -4,8 +4,6 @@ layout: default
 
 ![images](https://github.com/ceramicskate0/ceramicskate0.github.io/assets/6934294/3a854c99-f469-446b-a291-0f1d4fdae787)
 
-Repo Link: https://github.com/ceramicskate0/SharpLeftOvers
-
 ## Background 
     So heres how this started...there i was doing Red team stuff minding my own business when...BAM! 
     i find bloodhound data and Kerberos tickets sitting on the disk of this box im on...of course im gonna use it...well after i look at it. 
@@ -55,9 +53,10 @@ However, after some testing there are some issues with this approach that some o
 This means I had to use a little bit of a slower method if I wanted to keep this simple. 
 
 
-
 ## {Conclusion}
 
-## {Credits/Refs/Notes}
+## Credits/Refs/Notes
+
+- Repo Link: https://github.com/ceramicskate0/SharpLeftOvers
 
 [back](./)
