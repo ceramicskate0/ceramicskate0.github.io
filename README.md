@@ -20,6 +20,6 @@ This is the code for the blog
       
       ## {Conclusion}
       
-      ## {Credits/Refs/Notes}
+      ## Credits/Refs/Notes
       
       [back](./)
