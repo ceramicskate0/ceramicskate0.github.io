@@ -46,7 +46,7 @@ So I started out by making some standard file search methods withing the tool. T
 So when i started coding this. I had the same goals as always. Simple, easy to use, repeatable.
 I decided to focus on files on disk. Since this is what I found. Now thats no 100% I know things in AD are statically set with some tools and that can be resued but thus far I have only focused on 1 of those.
 
-When I started coding the project I had to find a way to get files on disk quickly (kinda failed there). Took me back to my old computer science days honestly. I originally wanted to use [Directory.EnumerateFiles Method](https://learn.microsoft.com/en-us/dotnet/api/system.io.directory.enumeratefiles?view=net-7.0) like I had seen in other tools that do recon on hosts at scale using C#...oh sorry CSharp...or Sharp* lol. This might be a better idea from [Seatbelt](https://github.com/GhostPack/Seatbelt/blob/master/Seatbelt/Util/MiscUtil.cs#L37) to get files fast.
+When I started coding the project I had to find a way to get files on disk quickly (kinda failed there). Took me back to my old computer science days honestly. I originally wanted to use [Directory.EnumerateFiles Method](https://learn.microsoft.com/en-us/dotnet/api/system.io.directory.enumeratefiles?view=net-7.0) like I had seen in other tools that do recon on hosts at scale using C#...oh sorry CSharp...or Sharp* lol. 
 
 However, after some testing there are some issues with this approach that some of those authors might not have tested for. Namely what happens when that method runs across files that you dont have permissions to access. When I tried it that was when the search stopped. So it would end up missing eveything it had not already found by that point.
 
@@ -56,6 +56,7 @@ By the end of the first release project this is how it was recieved lol.
 
 ![6b7und8rs1v21](https://github.com/ceramicskate0/ceramicskate0.github.io/assets/6934294/e76e743a-5d1e-467c-85a4-120f5d9d1187)
 
+This might be a better idea from [Seatbelt](https://github.com/GhostPack/Seatbelt/blob/master/Seatbelt/Util/MiscUtil.cs#L37) to get files fast.
 
 ## Conclusion
 
