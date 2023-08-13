@@ -8,8 +8,8 @@ layout: default
 
 ## {Para...}
 
-## {Conclusion}
+## Conclusion
 
-## {Credits/Refs/Notes}
+## Credits/Refs/Notes
 
 [back](./)
