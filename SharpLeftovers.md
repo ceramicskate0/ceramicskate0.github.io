@@ -57,7 +57,7 @@ By the end of the first release project this is how it was recieved lol.
 ![6b7und8rs1v21](https://github.com/ceramicskate0/ceramicskate0.github.io/assets/6934294/e76e743a-5d1e-467c-85a4-120f5d9d1187)
 
 
-## {Conclusion}
+## Conclusion
 
 While I admit that a BOF would be better in todays EDR age this is all we got. Maybe you can use it to find a old tests left overs.
 
