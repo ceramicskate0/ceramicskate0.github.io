@@ -18,7 +18,7 @@ This is the code for the blog
       
       ## {Para...}
       
-      ## {Conclusion}
+      ## Conclusion
       
       ## Credits/Refs/Notes
       
