@@ -17,7 +17,7 @@ layout: default
 
 # Links to Blog Posts
 
--[The article I had ChatGPT write about me...without tricking it](./The-Article-about-mechatgpt-wrote.html)
+- [The article I had ChatGPT write about me...without tricking it](./The-Article-about-mechatgpt-wrote.html)
 
 - [Deeper Dive into CVE-2022-24696](./CVE-2022-24696.html)
 
