@@ -79,6 +79,7 @@ Sooo lets talk....
 
 I didnt do most of what is described here.
 
+I hear AI will replace me...it seems to not be able to read a public Github Profile correctly. I wonder how it will hack as reading code is a part of that?
 
 But I think its right about the GoldMine ;)
 
