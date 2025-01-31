@@ -80,7 +80,7 @@ Sooo lets talk....
 I didnt do most of what is described here.
 
 
-But I think its write about the GoldMine ;)
+But I think its right about the GoldMine ;)
 
 Thats all.
 
