@@ -74,6 +74,16 @@ layout: default
     
     Check out CeramicSkate0’s GitHub to explore these projects and more, and take your ethical hacking skills to the next level.
 
+
+Sooo lets talk....
+
+I didnt do most of what is described here.
+
+
+But I think its write about the GoldMine ;)
+
+Thats all.
+
 ## Credits/Refs/Notes
 ChatGPT
 
