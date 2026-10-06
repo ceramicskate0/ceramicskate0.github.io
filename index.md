@@ -26,3 +26,5 @@ layout: default
 - [SharpLeftOvers](./SharpLeftovers.html)
 
 - [The4DayWebAppPentest](./The4DayWebAppPentest.html)
+
+- [What Open source AI Can do today](./AI_VM_APPSEC_RESEARCH.html)
