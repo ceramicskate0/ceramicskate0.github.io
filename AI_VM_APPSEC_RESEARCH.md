@@ -1,4 +1,4 @@
-# An update on what Vibe coded AI research and AI Pentesting with open source LLM and softwares that everyone can do today
+# An update on my Vibe coding research, AI research, and AI Pentesting research with open source LLM and software that everyone can do today (with no BS)
 
 Since almost no one is talking about actual work on Vm, pentesting, hacking with opensource AI (and yes im gonna call it AI nothing else ;) as well as building their own harnesses, agents, etc. 
 The BOT WARS have already started (vs begun)! Full disclosure no frontier models are used here for anything in the system itself, but could if chosen to do so, be used in a popular web app testing software intigration/extension that will sync the app to this system. This can plugin to frontier models with a another MCP extension or even that products own AI offering. The idea of plugin everywhere, gather everything, send it to the system, and get the best testing outcomes.
