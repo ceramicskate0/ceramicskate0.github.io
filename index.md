@@ -27,4 +27,6 @@ layout: default
 
 - [The4DayWebAppPentest](./The4DayWebAppPentest.html)
 
+- [RedTeaming in days past](./TheNotSoOldDaysOfRedTeaming.html)
+
 - [What Open source AI Can do today](./AI_VM_APPSEC_RESEARCH.html)
