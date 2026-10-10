@@ -17,13 +17,18 @@ layout: default
 
 # Links to Blog Posts
 
+### AI Blogs
+- [Building a AI Vuln MGMT Pentest System Lessons learned](./AI_VM_APPSEC_RESEARCH/html)
+  
 - [Red Teaming Implants in days past](./TheNotSoOldDaysOfRedTeaming.html)
 
 - [Red Teaming Server Infra in days past](./RedTeamingInfraThoughts.html)
 
-- [What Open source AI Can do today](./AI_VM_APPSEC_RESEARCH.html)- [The article I had ChatGPT write about me...without tricking it](./The-Article-about-mechatgpt-wrote.html)
+- [Wht Open source AI Can do today](./AI_VM_APPSEC_RESEARCH.html)- [The article I had ChatGPT write about me...without tricking it](./The-Article-about-mechatgpt-wrote.html)
 
 - [The4DayWebAppPentest](./The4DayWebAppPentest.html)
+
+### Pre AI Blogs
 
 - [Deeper Dive into CVE-2022-24696](./CVE-2022-24696.html)
 
