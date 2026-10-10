@@ -18,7 +18,7 @@ layout: default
 # Links to Blog Posts
 
 ### AI Blogs
-- [Building a AI Vuln MGMT Pentest System Lessons learned](./AI_VM_APPSEC_RESEARCH/html)
+- [Building a AI Vuln MGMT Pentest System Lessons learned](./AI_VM_APPSEC_RESEARCH.html)
   
 - [Red Teaming Implants in days past](./TheNotSoOldDaysOfRedTeaming.html)
 
