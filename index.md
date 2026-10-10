@@ -17,9 +17,9 @@ layout: default
 
 # Links to Blog Posts
 
-- [RedTeaming Implants in days past](./TheNotSoOldDaysOfRedTeaming.html)
+- [Red Teaming Implants in days past](./TheNotSoOldDaysOfRedTeaming.html)
 
-- [RedTeaming Server Infra in days past](./RedTeamingInfraThoughts.html)
+- [Red Teaming Server Infra in days past](./RedTeamingInfraThoughts.html)
 
 - [What Open source AI Can do today](./AI_VM_APPSEC_RESEARCH.html)- [The article I had ChatGPT write about me...without tricking it](./The-Article-about-mechatgpt-wrote.html)
 
