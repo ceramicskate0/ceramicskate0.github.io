@@ -29,4 +29,6 @@ layout: default
 
 - [RedTeaming in days past](./TheNotSoOldDaysOfRedTeaming.html)
 
+- [RedTeaming Server Infra in days past](./RedTeamingInfraThoughts.html)
+
 - [What Open source AI Can do today](./AI_VM_APPSEC_RESEARCH.html)
