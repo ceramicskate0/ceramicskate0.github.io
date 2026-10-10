@@ -27,7 +27,7 @@ layout: default
 
 - [The4DayWebAppPentest](./The4DayWebAppPentest.html)
 
-- [RedTeaming in days past](./TheNotSoOldDaysOfRedTeaming.html)
+- [RedTeaming implants in days past](./TheNotSoOldDaysOfRedTeaming.html)
 
 - [RedTeaming Server Infra in days past](./RedTeamingInfraThoughts.html)
 
