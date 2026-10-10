@@ -17,18 +17,16 @@ layout: default
 
 # Links to Blog Posts
 
-- [The article I had ChatGPT write about me...without tricking it](./The-Article-about-mechatgpt-wrote.html)
+- [RedTeaming Implants in days past](./TheNotSoOldDaysOfRedTeaming.html)
+
+- [RedTeaming Server Infra in days past](./RedTeamingInfraThoughts.html)
+
+- [What Open source AI Can do today](./AI_VM_APPSEC_RESEARCH.html)- [The article I had ChatGPT write about me...without tricking it](./The-Article-about-mechatgpt-wrote.html)
+
+- [The4DayWebAppPentest](./The4DayWebAppPentest.html)
 
 - [Deeper Dive into CVE-2022-24696](./CVE-2022-24696.html)
 
 - [CSharp-Payloading-1](./CSharp-Payloading1.html)
 
 - [SharpLeftOvers](./SharpLeftovers.html)
-
-- [The4DayWebAppPentest](./The4DayWebAppPentest.html)
-
-- [RedTeaming Implants in days past](./TheNotSoOldDaysOfRedTeaming.html)
-
-- [RedTeaming Server Infra in days past](./RedTeamingInfraThoughts.html)
-
-- [What Open source AI Can do today](./AI_VM_APPSEC_RESEARCH.html)
