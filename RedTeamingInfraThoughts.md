@@ -10,7 +10,7 @@ That is exactly the kind of project I like: not abstract, not theoretical, and n
 
 Anyone who has ever had to stand up a Linux server for offensive or defensive workflow work knows the same truth: environment setup is rarely glamorous, but it is critical. The moment you skip the basics, you end up with fragile infrastructure, inconsistent hardening, patch drift, or confusing service states.
 
-The repo addresses that by packaging a much of the setup into a single scripted workflow. The README describes the main driver as `setup_server.sh`, which serves as the primary installer and deployment script. It is designed to make the environment customizable while still reducing the amount of manual labor required for a clean build.
+The app addresses that by packaging a much of the setup into a single scripted workflow. It describes the main driver as `setup_server.sh`, which serves as the primary installer and deployment script. It is designed to make the environment customizable while still reducing the amount of manual labor required for a clean build.
 
 That is a valuable engineering mindset: automate the most repetitive parts, keep the operator in control, and provide enough structure that the environment is predictable enough to be repeated.
 
@@ -58,7 +58,7 @@ That is the difference between a script someone writes once and a tool that is a
 
 ## The role of custom lists and configuration data
 
-One of the most important parts of the project is the repository structure itself. There are `Lists/` and `files/` directories, which suggest an architecture built around modular, repeatable configuration data.
+One of the most important parts of the project is the codes structure itself. There are `Lists/` and `files/` directories, which suggest an architecture built around modular, repeatable configuration data.
 
 The custom list approach matters because red team and operational infrastructure work often depends on curated sources: blocklists, custom domains, known public services, or environment-specific filtering. Instead of hardcoding everything into the main script, the project separates configuration and operational logic.
 
