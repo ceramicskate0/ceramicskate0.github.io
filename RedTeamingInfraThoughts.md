@@ -31,7 +31,7 @@ The value is not in one single feature. The value is in the way the project trea
 
 ## The design philosophy behind it
 
-The repo is built around the idea that infrastructure should be easy to repeat, easy to adapt, and easy to reason about. The script is not a black box. It is structured around a clear operational model: the system checks whether it is the first run, installs required tooling, and then proceeds through a broad set of configuration steps.
+The project is built around the idea that infrastructure should be easy to repeat, easy to adapt, and easy to reason about. The script is not a black box. It is structured around a clear operational model: the system checks whether it is the first run, installs required tooling, and then proceeds through a broad set of configuration steps.
 
 The configuration is highly parameterized. There are hardcoded URLs for Linux config templates, helper scripts, and external references; there are custom lists; there are curated directories for tools, certificates, and server setup data. The result is a system that feels like a base image with operational guidance embedded into it.
 
