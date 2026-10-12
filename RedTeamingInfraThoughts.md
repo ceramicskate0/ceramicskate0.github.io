@@ -6,7 +6,7 @@ This repository is a Linux infrastructure bootstrap for red team environments. I
 
 That is exactly the kind of project I like: not abstract, not theoretical, and not bloated. It solves a real operational problem with a clear target audience and a pragmatic design.
 
-## Why this project matters
+## Why this research matters
 
 Anyone who has ever had to stand up a Linux server for offensive or defensive workflow work knows the same truth: environment setup is rarely glamorous, but it is critical. The moment you skip the basics, you end up with fragile infrastructure, inconsistent hardening, patch drift, or confusing service states.
 
@@ -14,9 +14,9 @@ The app addresses that by packaging a much of the setup into a single scripted w
 
 That is a valuable engineering mindset: automate the most repetitive parts, keep the operator in control, and provide enough structure that the environment is predictable enough to be repeated.
 
-## What the project actually does
+## What the research actually does
 
-The README makes the intent clear: this repo contains the software parts of the Red Team Infra Setup process.
+This makes the intent clear: this research contains the software parts of the Red Team Infra Setup process.
 
 At a high level, the project focuses on:
 
@@ -52,7 +52,7 @@ The script also references tools such as:
 - package maintenance workflows
 - networking and connection checks
 
-This is where the project becomes more than a convenience script. It demonstrates a deliberate focus on operational hygiene and foundational security controls. In other words, it is not a patchwork of random commands; it is a bootstrapping sequence for a more secure and more maintainable host.
+This is where the research becomes more than a convenience script. It demonstrates a deliberate focus on operational hygiene and foundational security controls. In other words, it is not a patchwork of random commands; it is a bootstrapping sequence for a more secure and more maintainable host.
 
 That is the difference between a script someone writes once and a tool that is actually usable as part of an environment build pipeline.
 
@@ -91,12 +91,12 @@ That is a strong combination of technical depth and practical thinking. It is no
 
 The real lesson of RedTeaming_InfraSetup is that infrastructure engineering is an exercise in operational discipline. The best systems are not the ones with the most complexity; they are the ones that reduce complexity while still making the environment predictable, secure, and manageable.
 
-This project demonstrates that principle in a very direct way. It turns a complicated and repetitive setup process into something that can be repeated, customized, and enforced across environments.
+This research demonstrates that principle in a very direct way. It turns a complicated and repetitive setup process into something that can be repeated, customized, and enforced across environments.
 
 That is what makes it interesting from an engineering standpoint. It is a built-for-purpose toolkit designed to remove friction from a difficult task.
 
 ## Closing thought
 
-The project is a clean example of what good operational tooling looks like: focused, repeatable, security-aware, and designed around real-world use. It does not try to reinvent infrastructure; it simplifies the process of getting a secure, configured Linux host into a usable state.
+The research is a clean example of what good operational tooling looks like: focused, repeatable, security-aware, and designed around real-world use. It does not try to reinvent infrastructure; it simplifies the process of getting a secure, configured Linux host into a usable state.
 
 That is exactly the kind of work I find compelling. It sits at the intersection of automation, systems administration, and security engineering, and it turns a messy operational challenge into a structured, repeatable workflow.
