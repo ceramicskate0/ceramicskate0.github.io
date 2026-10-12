@@ -1,8 +1,8 @@
 # Building a .NET Obfuscation Pipeline: How I Turned a Project Into a Runtime-Hardening Toolchain
 
-If there is one thing I value in engineering, it is the ability to turn a simple idea into a system with real leverage. The Packer project is a great example of that. What starts as a small utility set becomes a focused toolchain for making binaries harder to read, harder to reason about, and harder to reverse engineer without running them.
+If there is one thing I value in engineering, it is the ability to turn a simple idea into a system with real leverage. The Packer research is a great example of that. What starts as a small utility set becomes a focused toolchain for making binaries harder to read, harder to reason about, and harder to reverse engineer without running them.
 
-This project is not trying to be a general-purpose framework. It is a purpose-built packer and obfuscator built around a very clear problem: how do you make compiled .NET code less transparent without breaking execution? That question is at the heart of this project, and it is exactly the kind of engineering problem I enjoy solving. It was also very well suited to be run in CobaltStrikes .Net Exec methods and BOFs as that was all the rage at the time.
+This research is not trying to be a general-purpose framework. It is a purpose-built packer and obfuscator built around a very clear problem: how do you make compiled .NET code less transparent without breaking execution? That question is at the heart of this project, and it is exactly the kind of engineering problem I enjoy solving. It was also very well suited to be run in CobaltStrikes .Net Exec methods and BOFs as that was all the rage at the time.
 
 ## Why this project matters
 
@@ -14,7 +14,7 @@ That is the kind of work that matters in real security engineering: not just wri
 
 ## What I built into the project
 
-The README makes the intent of the project clear. It is a packer/obfuscator that runs during the build pipeline and introduces friction into reverse engineering. The main techniques are straightforward but effective:
+The research makes the intent of the project clear. It is a packer/obfuscator that runs during the build pipeline and introduces friction into reverse engineering. The main techniques are straightforward but effective:
 
 - renaming methods, variables, classes, and namespaces
 - encrypting string literals and moving them into helper structures
@@ -78,7 +78,7 @@ I think that is one of the most valuable lessons in software security and revers
 
 ## The “bad strings” layer
 
-The project also references replacing “bad strings” drawn from a public list of recognizable indicators. That is another example of how this kind of work is really about reducing observability and recognizability.
+The research also references replacing “bad strings” drawn from a public list of recognizable indicators. That is another example of how this kind of work is really about reducing observability and recognizability.
 
 The goal is not just to hide everything, but to remove or rewrite marks that are easy for scanners, defenders, or analysts to spot. That includes suspicious identifiers, command-like strings, framework markers, and other static indicators that often make a binary stand out immediately.
 
@@ -109,7 +109,7 @@ In a lot of ways, this project is a good example of how I approach engineering w
 
 ## Closing thought
 
-The Packer repository is more than a packer; it is a case study in how small technical decisions compound into meaningful operational friction. It is a reminder that software security is often less about hiding everything and more about changing the cost, visibility, and effort required to understand what is happening.
+The Packer research is more than a packer; it is a case study in how small technical decisions compound into meaningful operational friction. It is a reminder that software security is often less about hiding everything and more about changing the cost, visibility, and effort required to understand what is happening.
 
 That is exactly the kind of challenge I enjoy: turning a complex problem into a disciplined system, and making sure the result is both effective and technically credible.
 
