@@ -25,7 +25,7 @@ layout: default
 
 - [Red Teaming Server Infra in days past](./RedTeamingInfraThoughts.html)
 
-- [Wht Open source AI Can do today](./AI_VM_APPSEC_RESEARCH.html)- [The article I had ChatGPT write about me...without tricking it](./The-Article-about-mechatgpt-wrote.html)
+- [The article I had ChatGPT write about me...without tricking it](./The-Article-about-mechatgpt-wrote.html)
 
 - [The4DayWebAppPentest](./The4DayWebAppPentest.html)
 
