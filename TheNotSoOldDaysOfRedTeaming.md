@@ -26,7 +26,7 @@ This is not a single gimmick. It is a workflow. The project rewrites the source 
 
 ## The technical structure
 
-The repo is organized around modular components, which is one of the things I like most about it. It shows that even a narrow toolchain can still be designed with clarity and purpose.
+The research is organized around modular components, which is one of the things I like most about it. It shows that even a narrow toolchain can still be designed with clarity and purpose.
 
 ### Rewriter
 
