@@ -10,7 +10,7 @@ That is exactly the kind of project I like: not abstract, not theoretical, and n
 
 Anyone who has ever had to stand up a Linux server for offensive or defensive workflow work knows the same truth: environment setup is rarely glamorous, but it is critical. The moment you skip the basics, you end up with fragile infrastructure, inconsistent hardening, patch drift, or confusing service states.
 
-The app addresses that by packaging a much of the setup into a single scripted workflow. It describes the main driver as `setup_server.sh`, which serves as the primary installer and deployment script. It is designed to make the environment customizable while still reducing the amount of manual labor required for a clean build.
+This addresses that by packaging a much of the setup into a single scripted workflow. It describes the main driver as `setup_server.sh`, which serves as the primary installer and deployment script. It is designed to make the environment customizable while still reducing the amount of manual labor required for a clean build.
 
 That is a valuable engineering mindset: automate the most repetitive parts, keep the operator in control, and provide enough structure that the environment is predictable enough to be repeated.
 
@@ -27,11 +27,11 @@ At a high level, the project focuses on:
 - giving operators a guided menu-driven setup experience
 - allowing customization through user-managed lists and configuration files
 
-The value is not in one single feature. The value is in the way the project treats setup as a repeatable workflow rather than a manual process that has to be recreated every time.
+The value is not in one single feature. The value is in the way the research treats setup as a repeatable workflow rather than a manual process that has to be recreated every time.
 
 ## The design philosophy behind it
 
-The project is built around the idea that infrastructure should be easy to repeat, easy to adapt, and easy to reason about. The script is not a black box. It is structured around a clear operational model: the system checks whether it is the first run, installs required tooling, and then proceeds through a broad set of configuration steps.
+The research is built around the idea that infrastructure should be easy to repeat, easy to adapt, and easy to reason about. The script is not a black box. It is structured around a clear operational model: the system checks whether it is the first run, installs required tooling, and then proceeds through a broad set of configuration steps.
 
 The configuration is highly parameterized. There are hardcoded URLs for Linux config templates, helper scripts, and external references; there are custom lists; there are curated directories for tools, certificates, and server setup data. The result is a system that feels like a base image with operational guidance embedded into it.
 
@@ -74,7 +74,7 @@ The project respects that reality. It gives the operator a framework but still l
 
 ## The value of this kind of tooling
 
-This repo is a good example of the kind of engineering work I value most: turning operational pain into a repeatable system.
+This researchis is a good example of the kind of engineering work I value most: turning operational pain into a repeatable system.
 
 It showcases skills in:
 
