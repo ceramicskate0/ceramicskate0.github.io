@@ -62,7 +62,7 @@ This is exactly the kind of problem I like solving: turning a static artifact in
 
 ## Why this is a strong engineering story
 
-What makes this project interesting is that it is not just “random renaming.” It is a layered system with a clear workflow and a strong architectural idea behind it.
+What makes this research interesting is that it is not just “random renaming.” It is a layered system with a clear workflow and a strong architectural idea behind it.
 
 The sequence is straightforward but effective:
 
