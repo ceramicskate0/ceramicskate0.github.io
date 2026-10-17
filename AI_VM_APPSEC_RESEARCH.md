@@ -6,7 +6,20 @@ Also frontier models did get used in the coding because it was fail fast (and fa
 
 So here we go.....
 
+----------------------------------------------------------------
+# From Scans to AI Security Workflows
+
+Security teams say they do not need more raw output. They needed a better way to turn scattered signals into actionable evidence. At least so they say. In Vuln Management this is as true as it is in the SOC world and more to the point its also true for an AI doing a web app pentest.
+
+This thought research explores a platform designed for this exact problem. It should not treat testing as a one-pass checklist or a brute-force sweep. 
+In this thinking research, its framed as a workflow: discovery, reasoning, validation, and operational oversight all working together inside a structured environment built for real application security work.
+
+At a glance, a system could be imagined as a modern web-based security platform: a dashboard for assets and findings, live scan progress, policy controls, and an engine capable of orchestrating a large amount of reconnaissance and validation logic. Maybe throw in reporting....because....reporting, you need it for well other stuff also. AI stuff mostly. But the AI will need all the datas to get this 'black box test into a white box assessment' tm. Source, runtime, history, params, uri's, headers, banners, ports, domains, ssl/tls, and EVERYTHING. Just to have a shot at doing as well as a novice pentester. If it is to be unguided it must be as such.  
+
+I guess BLUF here is that with AI testing its not a 1 and done its more a learning journey for the agent than a test of signatures. 
+Think n'ary tree logic with time constraints. 
+
 ```
 ```
-# The Rest is COMING SOON :)
+# The Rest/More is COMING SOON :)
 ## (I will be releasing this blog in parts like episodes to a series)
