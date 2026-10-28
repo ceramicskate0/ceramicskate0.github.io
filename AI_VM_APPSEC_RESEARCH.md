@@ -20,7 +20,7 @@ At a glance, a system could be imagined as a modern web-based security platform:
 I guess BLUF here is that with AI testing its not a 1 and done its more a learning journey for the agent than a test of signatures. 
 Think n'ary tree logic with time constraints. 
 
-## Designing for the reality of modern app testing, AI, and vuln mgmt
+## Designing for the reality of modern app testing, AI, and MFA
 
 Most scanners were built around a familiar pattern: find targets, run checks, collect output, and report results. That approach was useful for breadth and for them, but it was weak at judgment and doesnt fit how AI actually works. A real AI security workflow was not just about volume. It was about deciding which paths mattered, which signals were trustworthy, and which results deserved follow-up. Learning from success and failure. 
 
