@@ -44,3 +44,4 @@ The research's result should be a scan engine that could move from login to auth
 ```
 # The Rest/More is COMING SOON :)
 ## (I will be releasing this blog in parts, at random, like episodes to a series)
+[back](./)
