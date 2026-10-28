@@ -1,5 +1,7 @@
 # Building a Repeatable Linux Server Infrastructure Setup for Red Team Operations
 
+You use terraform but i was using a menu driven shell script :) with it
+
 There is a difference between writing a one-off script and designing a repeatable operational workflow. This old pre AI research sits firmly on the operational side of that line.
 
 This research is a Linux infrastructure bootstrap for red team environments. It is not trying to be a broad framework or a production-grade platform. Instead, it is a practical utility that automates the tedious, repetitive, and high-risk parts of standing up a hardened server environment: package installation, auditing, firewall configuration, service hardening, and a menu-driven setup flow that gives operators a structured path to deploy a system with the right baseline controls.
