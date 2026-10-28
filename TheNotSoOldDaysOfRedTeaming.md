@@ -8,6 +8,8 @@ This research is not trying to be a general-purpose framework. It is a purpose-b
 
 The interesting part is not just that the code gets renamed or hidden. The real value is in understanding how layering small transformations together creates a strong anti-analysis effect.
 
+The interesting part was using Azure build pipelines and github to build these implants for authorized operations. It didnt seem to impact detections....... .
+
 In practice, an analyst often starts with the easiest signals: method names, class names, embedded strings, obvious API calls, and metadata that explains what the binary is doing. Packer strips away that visibility. It renames identifiers, moves strings into helper structures, obscures runtime data, and changes the final binary enough that static inspection becomes much less useful.
 
 That is the kind of work that matters in real security engineering: not just writing code, but shaping how code behaves under analysis and adversarial review.
