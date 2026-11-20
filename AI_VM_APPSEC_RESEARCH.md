@@ -57,6 +57,16 @@ Instead of following a narrow static playbook, this system could evaluate the ta
 
 That mattered because modern attack surfaces were rarely static. They shifted with auth state, API behavior, dynamic content, and infrastructure controls. The right system was one that could react to what it learned rather than repeating the same checks on the same routes.
 
+## AI as an tester, not a wildcard
+
+This research effort could use AI in a way that was much more grounded than the common “fully autonomous scanner” trope. It did not simply let a model run free across a target. Instead, it used model-driven reasoning inside a controlled testing system with guardrails for scope, validation, and evidence.
+
+This was a critical distinction. AI was most valuable when it augmented the analyst’s judgment rather than replacing the boundaries of the system itself. The platform asked the model to reason about the current target context, identify likely vulnerability classes, and decide which signals deserved attention.
+
+That reasoning was then structured around bug-class decomposition. Rather than asking the model to make broad, shallow conclusions across every type of issue at once, it narrowed the task to focused classes and then evaluated the results in context.
+
+The AI pipeline was not just a feature; it was a disciplined workflow for decomposing complexity into manageable reasoning units.
+
 ```
 ```
 # The Rest/More is COMING SOON :)
